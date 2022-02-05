@@ -1,0 +1,2 @@
+taskagitmakas.Player
+taskagitmakas.HandSign
